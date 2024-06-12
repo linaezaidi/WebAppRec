@@ -1,0 +1,4 @@
+Etape 1 : pip install flask flask_session cs50
+
+Etape 2 : export FLASK_APP=application.py
+Etape 3 : flask run
